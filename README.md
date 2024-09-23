@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/69640281?s=400&u=a9001cffde491d31d3cdcdde83c33427dfa83c1c&v=4"  />
+  <img height="150" src="https://i.pinimg.com/736x/75/af/44/75af440827f091abb81c57c2522a2a4e.jpg"  />
 </div>
 
 ###
@@ -57,6 +57,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=blackwolf660&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-<div align="center">![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blackwolf660&theme=dark)</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blackwolf660&theme=dark)
 
 ###
