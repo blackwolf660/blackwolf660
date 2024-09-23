@@ -2,25 +2,17 @@
   <img height="250" src="https://i.pinimg.com/736x/75/af/44/75af440827f091abb81c57c2522a2a4e.jpg"  />
 </div>
 
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=blackwolf660.blackwolf660&"  />
 </div>
 
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as frontend dev on Okayu<br>- 📚 I'm currently learning JS, TS, C#<br>- ⚡ In my free time I sleep</p>
+<p align="left">I'm BlackWolf from Russia <br><br>- 🔭 I’m working as frontend dev on Okayu<br>- 📚 I'm currently learning JS, TS, C#<br>- ⚡ In my free time I sleep</p>
 
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
